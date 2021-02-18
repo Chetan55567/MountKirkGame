@@ -10,7 +10,7 @@ apt update <br/>
 apt install -y git <br/>
 apt install -y apache2 <br/>
 cd /var/www/html <br/>
-git clone https://github.com/learngcpwithmahesh/MountkirkGames.git <br/>
+git clone https://github.com/Chetan55567/MountKirkGame.git <br/>
 
 2. Open http://EXTERNAL-IP-GCE/MountkirkGames in your browser
 3. Enjoy!
